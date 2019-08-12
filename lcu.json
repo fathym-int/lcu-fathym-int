@@ -1,0 +1,14 @@
+{
+  "templates": {
+    "repository": "lowcodeunit-devkit/lcu-cli-templates-core",
+    "scope": "@fathym-int",
+    "workspace": "lcu-fathym-int"
+  },
+  "config": {
+    "wc": ["wc/lcu-fathym-int.lcu.js"],
+    "solutions": {},
+    "elements": {},
+    "flux": {},
+    "dependencies": {}
+  }
+}
